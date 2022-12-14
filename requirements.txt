@@ -11,6 +11,7 @@ cloudscraper
 dnspython
 feedparser
 flask
+flask_restful
 gc-python-utils
 git+https://github.com/SilentDemonSD/cinemagoer
 google-api-python-client
