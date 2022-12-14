@@ -1,3 +1,15 @@
+## Scalingo Deploy
+
+
+
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/sanoemiy/WxML#master)
+
+
+
+
+
+
+
 <p align="center">
     <a href="https://github.com/weebzone/WZML">
         <kbd>
