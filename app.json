@@ -1,0 +1,18 @@
+{
+  "name": "SearchX",
+  "description": "A simple Telegram Bot for searching data on Google Drive.",
+  "keywords": [
+    "telegram"
+  ],
+  "repository": "https://github.com/sanoemiy/WxML",
+  "stack": "container",
+  "env":{
+        "CONFIG_ENV_URL":{
+            "description":"Make a config file in github gist and paste the raw url here (check config_sample.env)"
+        }
+    }
+
+
+
+
+}
